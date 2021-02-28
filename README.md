@@ -6,9 +6,11 @@ Nesse pequeno programa, você irá enfrentar a máquina, porém ela irá sempre 
 
 O código está no arquivo "main.py" e vocês podem testa-lo em suas máquinas. :video_game:
 
-<img src="/jogo-images/jogo-nim1.png" width="400px">
+<img src="/jogo-images/jogo-nim1.png" width="700px">
 
-<img src="/jogo-images/jogo-nim2.png" width="400px"> <img src="/jogo-images/jogo-nim3.png" width="400px">
+<img src="/jogo-images/jogo-nim2.png" width="700px">
+
+<img src="/jogo-images/jogo-nim3.png" width="700px">
 
 Caso tenha curtido do meu projeto e queira me ajudar marque a  **estrela** :arrow_up:
 
