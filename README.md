@@ -14,4 +14,4 @@ O código está no arquivo "main.py" e vocês podem testa-lo em suas máquinas. 
 
 Caso tenha curtido do meu projeto e queira me ajudar marque a  **estrela** :arrow_up:
 
-Também se puder me siga no [Instagram](https://www.instagram.com/marinho.dev/), no [LinkedIn](https://www.linkedin.com/in/matheus-marinho-71ab321b6/) e também aqui no [Github](https://github.com/marinhoo). Caso queira dar um feedback ou sugestão é só mandar uma mensagem por meio de algumas dessas redes acima :arrow_up:
+Também se puder me siga no [LinkedIn](https://www.linkedin.com/in/matheus-marinho-71ab321b6/) e também aqui no [Github](https://github.com/marinhoo). Caso queira dar um feedback ou sugestão é só mandar uma mensagem por meio de algumas dessas redes acima :arrow_up:
